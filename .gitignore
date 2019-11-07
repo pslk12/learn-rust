@@ -1,5 +1,7 @@
-/target/
+*.swp
+target/
 **/*.rs.bk
-*.i*
-Cargo.*
-
+.DS_Store
+*.ipr
+*.iws
+.idea
